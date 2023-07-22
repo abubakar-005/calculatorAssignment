@@ -24,5 +24,3 @@ console.log(` Exponentiation of`, +num1, `&`, +num2, `gives`, +(num1**num2), "\n
 //Modulus
 
 console.log(` Modulus of`, num2, `&`, num1, `gives`, +(num2%num1),"\n");
-
-
